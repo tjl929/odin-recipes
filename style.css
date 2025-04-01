@@ -1,0 +1,14 @@
+body {
+    background-color: #ccd4ff;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 500;
+    font-family: serif;
+}
+
+a {
+    font-size: 25px;
+    color: #000;
+}
