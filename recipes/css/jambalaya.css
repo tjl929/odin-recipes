@@ -1,0 +1,32 @@
+body {
+    background-color: #ffeaea;
+    font-weight: 500;
+    font-family: Garamond, serif;
+}
+
+a {
+    font-size: 22px;
+    color: #000;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p, li {
+    font-size: 25px;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 22px;
+    color: #f10d0d;
+}
